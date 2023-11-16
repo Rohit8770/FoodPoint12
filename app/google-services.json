@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826367265253",
+    "project_id": "foodpoint12-6fa5f",
+    "storage_bucket": "foodpoint12-6fa5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826367265253:android:8a1c48f30a90ed487a070c",
+        "android_client_info": {
+          "package_name": "com.example.foodpoint12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826367265253-ns50khdqbh4of7dsuog0b30pguoek42k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRB9lfNLXy0LxCQAHZfZubMutG0eLOaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826367265253-ns50khdqbh4of7dsuog0b30pguoek42k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodPoint</string>
+    <string name="default_web_client_id">\n</string>
+
+
+    <string name="facebook_app_id">1364006934499298</string>
+    <string name="fb_login_protocol_scheme">fb1364006934499298</string>
+    <string name="facebook_client_token">11c6fb9990c9b34f7e2f8c731e54b7fb</string>
+
+
+</resources>
